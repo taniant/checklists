@@ -1,1 +1,2 @@
-# checklists
+# ya-translator
+Тест-кейсы проверки колдунщика on-line переводчика
